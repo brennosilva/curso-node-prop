@@ -1,0 +1,5 @@
+[0417/174005.388:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\temp\reports: Acesso negado. (0x5)
+[0417/174005.972:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\temp\reports: Acesso negado. (0x5)
+[0417/174005.977:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0417/174006.008:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[0711/132544.774:ERROR:settings.cc(263)] Settings version is not 1
